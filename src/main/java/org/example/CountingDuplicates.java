@@ -16,6 +16,7 @@ public class CountingDuplicates {
                 ans.put(current,ans.get(current)+1);
             }
         }
+
         return counter;
     }
 }

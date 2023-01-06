@@ -17,8 +17,8 @@ public class Main {
 //        SpinWords ans = new SpinWords();
 //        System.out.println(ans.spinWords("Hey fellow warriors"));
 //        System.out.println(XO.getXO("xxoo"));
-        System.out.println(FindOutlier.find(new int[]{206847684,1056521,7,17,1901,21104421,7,1,35521,1,7781}));
-
+//        System.out.println(FindOutlier.find(new int[]{206847684,1056521,7,17,1901,21104421,7,1,35521,1,7781}));
+        System.out.println(DuplicateEncoder.encode("   ()(   "));
     }
 
 
