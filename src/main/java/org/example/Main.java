@@ -19,7 +19,8 @@ public class Main {
 //        System.out.println(XO.getXO("xxoo"));
 //        System.out.println(FindOutlier.find(new int[]{206847684,1056521,7,17,1901,21104421,7,1,35521,1,7781}));
 //        System.out.println(DuplicateEncoder.encode("   ()(   "));
-        System.out.println(Persist.persistence(999));
+//        System.out.println(Persist.persistence(999));
+        System.out.println(CamelCase.toCamelCase("i3like8apple_pie_do+you/."));
     }
 
 
