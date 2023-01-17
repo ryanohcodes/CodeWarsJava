@@ -1,4 +1,4 @@
-package org.example;
+package org.codewars.six;
 
 public class StringSplit {
     public static String[] solution(String s) {

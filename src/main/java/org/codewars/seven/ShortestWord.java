@@ -1,4 +1,4 @@
-package org.example;
+package org.codewars.seven;
 
 public class ShortestWord {
         public static int findShort(String s) {

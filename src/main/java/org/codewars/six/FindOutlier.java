@@ -1,4 +1,4 @@
-package org.example;
+package org.codewars.six;
 
 import java.util.Arrays;
 public class FindOutlier{

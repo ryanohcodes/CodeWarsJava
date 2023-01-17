@@ -1,4 +1,4 @@
-package org.example;
+package org.codewars.seven;
 
 public class JadenCase {
     public String toJadenCase(String phrase) {

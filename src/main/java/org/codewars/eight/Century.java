@@ -1,4 +1,4 @@
-package org.example;
+package org.codewars.eight;
 
 public class Century {
         public static int century(int number) {

@@ -1,4 +1,4 @@
-package org.example;
+package org.codewars.five;
 
 public class HumanReadableTime {
     public static String makeReadable(int seconds) {

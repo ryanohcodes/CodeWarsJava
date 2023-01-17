@@ -1,4 +1,4 @@
-package org.example;
+package org.codewars.six;
 
 public class CamelCase {
     static String toCamelCase(String s){

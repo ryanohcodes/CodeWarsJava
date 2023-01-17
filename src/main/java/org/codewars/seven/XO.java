@@ -1,4 +1,4 @@
-package org.example;
+package org.codewars.seven;
 
 public class XO {
     public static boolean getXO (String str) {

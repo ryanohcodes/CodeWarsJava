@@ -1,4 +1,4 @@
-package org.example;
+package org.codewars.six;
 // learned how to turn a string into a Long and a long into a string
 // type casting gets rid of lossy conversion
 class Persist {

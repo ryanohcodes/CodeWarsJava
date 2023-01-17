@@ -1,4 +1,4 @@
-package org.example;
+package org.codewars.six;
 
 public class PangramChecker {
     public boolean check(String sentence){

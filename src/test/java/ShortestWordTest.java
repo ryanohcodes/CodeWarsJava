@@ -1,4 +1,4 @@
-import org.example.ShortestWord;
+import org.codewars.seven.ShortestWord;
 import org.junit.jupiter.api.DisplayName;
 import org.junit.jupiter.api.Test;
 

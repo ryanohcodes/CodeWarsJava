@@ -1,4 +1,4 @@
-package org.example;
+package org.codewars.six;
 
 public class OrderPlease {
     public static String order(String words) {

@@ -1,4 +1,4 @@
-import org.example.PangramChecker;
+import org.codewars.six.PangramChecker;
 import org.junit.jupiter.api.DisplayName;
 import org.junit.jupiter.api.Test;
 
